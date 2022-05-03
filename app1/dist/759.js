@@ -1,0 +1,3 @@
+"use strict";(self.webpackChunk_basic_host_remote_app1=self.webpackChunk_basic_host_remote_app1||[]).push([[759],{372:(e,t,n)=>{n.r(t);var l=n(369),a=n.n(l),c=n(679),r=n.n(c);const o=n(609).ZP.button`
+  background-color: red;
+`,u=a().lazy((()=>n.e(164).then(n.t.bind(n,164,23)))),s=()=>a().createElement("div",null,a().createElement("h1",null,"Basic Host-Remote"),a().createElement("h2",null,"App 1"),a().createElement(o,null,"my button"),a().createElement(a().Suspense,{fallback:"Loading Button"},a().createElement(u,null)));r().render(a().createElement(s,null),document.getElementById("root"))}}]);
